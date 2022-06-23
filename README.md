@@ -11,6 +11,7 @@
 <hr> -->
 
 ![Header](./assets/github-header-image.png)
+<div align="center">
 
 
 
@@ -18,12 +19,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabesh-Shrestha&show_icons=true&theme=tokyonight)](https://github.com/Prabesh-Shrestha)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabesh-Shrestha&show_icons=true&theme=tokyonight&hide=css)](https://github.com/Prabesh-Shrestha)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prabesh-Shrestha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Prabesh-Shrestha)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabesh-Shrestha&show_icons=true&theme=tokyonight&hide=css)](https://github.com/Prabesh-Shrestha)
 
 
-<div align="center">
+
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </div>
