@@ -21,7 +21,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Prabesh-Shrestha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://github.com/Prabesh-Shrestha)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prabesh-Shrestha&show_icons=true&theme=tokyonight&hide=css,lua,html&exclude_repo=pp-prep-client)](https://github.com/Prabesh-Shrestha)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prabesh-Shrestha&show_icons=true&theme=tokyonight&hide=css,lua,html&exclude_repo=pp-prep-client,CryptoPass,OpenBeats,dotfiles
+)](https://github.com/Prabesh-Shrestha)
 
 
 
