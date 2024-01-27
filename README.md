@@ -33,9 +33,14 @@
 </table>
 </p>
 
-<center>
-<img align="center" style="border-radius: 10px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
-</center>
+<style>
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<img class="center" align="center" style="border-radius: 10px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
 
 <br>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -45,6 +50,4 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<center>
-<img src="https://visitcount.itsvg.in/api?id=Prabesh-Shrestha&icon=1&color=8">
-</center>
+<img class="center" src="https://visitcount.itsvg.in/api?id=Prabesh-Shrestha&icon=1&color=8">
