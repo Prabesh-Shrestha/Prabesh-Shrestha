@@ -4,7 +4,7 @@
 
 ## <picture><img src = "assets/about_me.gif" width = 30px></picture> About me
 
-<picture> <img align="right" src="assets/hacker.gif" width = 300px></picture>
+<picture> <img align="right" src="assets/hacker.gif" width = 500px></picture>
 
 -   :brain: Passionate about Maths, Machines and Robots
 -   :technologist: I use **Arch Linux, Neovim, Rust BTW**
