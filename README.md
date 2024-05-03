@@ -18,7 +18,7 @@
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
-  <img  align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prabesh-Shrestha&show_icons=true&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=prabesh-shrestha&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=contribs" />
   <br>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Prabesh-Shrestha&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&hide_border=true" />
